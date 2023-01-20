@@ -1,7 +1,0 @@
-# excluding notebooks checkpoints
-.vscode/
-
-# ml gitignore
-ML/.ipynb_checkpoints/
-ML/*.pdf
-ML/*.pptx
