@@ -1,2 +1,2 @@
-Final project of Deel Learning course.
+Final project of Deep Learning course.
 Score of 5/6.
