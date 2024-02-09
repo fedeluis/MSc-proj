@@ -25,5 +25,6 @@ The assignment was to create a robot navigation system, using TIAGo, that perfor
 Three individual projects and various laboratories regarding ML course.
 
 ## Colleagues involved in the projects
-@Umbomatumbo
-@petrovicdavid
+[@petrovicdavid](https://github.com/petrovicdavid)
+
+[@Umbomatumbo](https://github.com/Umbomatumbo)
